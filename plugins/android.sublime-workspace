@@ -1,0 +1,661 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"foot",
+				"foto"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"desc",
+				"descricao"
+			],
+			[
+				"exe",
+				"executa"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"isn",
+				"is_numeric"
+			],
+			[
+				"sele",
+				"selected	Attr"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"cone",
+				"conexao"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"met",
+				"method	Attr"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"data",
+				"data_saida"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"valor",
+				"valorDiaria"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"hora",
+				"hora_saida"
+			],
+			[
+				"ve",
+				"velocidadeAtual"
+			],
+			[
+				"velo",
+				"velocidadeMaxima"
+			],
+			[
+				"veloc",
+				"velocidadeAtual"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"Num",
+				"numMarchas"
+			],
+			[
+				"Veloci",
+				"velocidadeAtual"
+			],
+			[
+				"marc",
+				"numMarchas"
+			],
+			[
+				"Get",
+				"GetNCombustivel"
+			],
+			[
+				"rese",
+				"reserva"
+			],
+			[
+				"GetVe",
+				"GetVelocidadeMaxima"
+			],
+			[
+				"GetVelo",
+				"GetVelocidadeAtual"
+			],
+			[
+				"dis",
+				"distancia"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"inc",
+				"incremento"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"gitg",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comen",
+				"Toggle Comment"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/fabio/android/cordova/temperatura/platforms/android/ant-build/AndroidManifest.xml.d",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/templates/carrinho.html",
+		"/home/fabio/Área de Trabalho/beijo de bebe/cliente/compra_cliente.html",
+		"/home/fabio/Área de Trabalho/beijo de bebe/loja/e-mail - compra loja.html",
+		"/home/fabio/Área de Trabalho/beijo de bebe2/compra loja/e-mail - compra loja.html",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/templates/formas_pagamento_redirecionamento.html",
+		"/home/fabio/Área de Trabalho/beijo de beb/compra loja/e-mail - compra loja.html",
+		"/home/fabio/Área de Trabalho/beijo de beb/compra cliente/compra_cliente.html",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/templates/autenticacao_topo.html",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/assets/compass/sass/_cabecalho.scss",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/templates/index.html",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/assets/compass/sass/_padrao.scss",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/templates/busca_resultado.html",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/templates/inicial_destaque_categoria.html",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/templates/produtos_lista.html",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/templates/inicial_novidades.html",
+		"/home/fabio/wdhouse/frontend/supertecinfo/public_html/templates/carrinho_de_compras_redirecionar.html",
+		"/home/fabio/wdhouse/frontend/supertecinfo/public_html/templates/pagamento_redireciona.html",
+		"/home/fabio/wdhouse/frontend/beijodebebe/public_html/templates/endereco_entrega.html",
+		"/home/fabio/wdhouse/frontend/supertecinfo/public_html/templates/pagamento_confirma.html",
+		"/home/fabio/wdhouse/frontend/supertecinfo/public_html/templates/carrinho_de_compras_redireciona.html",
+		"/home/fabio/wdhouse/frontend/modulos_oceanofm/brasileirao.php",
+		"/run/user/1000/gvfs/smb-share:server=190.200.1.213,share=http/oceanofm/public_html/site/modulos_oceanofm/brasileirao.php",
+		"/opt/lampp/htdocs/miniprojeto/area_restrita.php",
+		"/opt/lampp/htdocs/miniprojeto/cabecalho_restrito.php",
+		"/opt/lampp/htdocs/miniprojeto/css/style.css",
+		"/media/fabio/OS/Users/Fábio/Dropbox/Henrique - Fábio/Site Vira Lata Vira Amigo/public_html/css/style.css",
+		"/opt/lampp/htdocs/miniprojeto/classes/geral.php",
+		"/media/fabio/OS/Users/Fábio/Dropbox/Henrique - Fábio/Site Vira Lata Vira Amigo/public_html/fale_conosco.php",
+		"/media/fabio/OS/Users/Fábio/Dropbox/Henrique - Fábio/Site Vira Lata Vira Amigo/public_html/noticias_exibe.php",
+		"/media/fabio/OS/Users/Fábio/Dropbox/Henrique - Fábio/Site Vira Lata Vira Amigo/public_html/login.php",
+		"/opt/lampp/htdocs/miniprojeto/area_restrita.html",
+		"/opt/lampp/htdocs/miniprojeto/index.php",
+		"/opt/lampp/htdocs/miniprojeto/fale_conosco.html",
+		"/opt/lampp/htdocs/miniprojeto/banco.sql",
+		"/opt/lampp/htdocs/miniprojeto/dados.sql",
+		"/opt/lampp/htdocs/miniprojeto/contato.php",
+		"/opt/lampp/htdocs/miniprojeto/newsletter.php",
+		"/opt/lampp/htdocs/miniprojeto/noticia.php",
+		"/opt/lampp/htdocs/miniprojeto/geral.php",
+		"/opt/lampp/htdocs/miniprojeto/usuario.php",
+		"/opt/lampp/htdocs/miniprojeto/anuncio.php",
+		"/home/fabio/Área de Trabalho/rascunho.html",
+		"/home/fabio/Área de Trabalho/untitled.html",
+		"/opt/lampp/htdocs/miniprojeto/categoria.php",
+		"/opt/lampp/htdocs/ATPS/aluguel.inc",
+		"/opt/lampp/htdocs/miniprojeto/conexao.php",
+		"/opt/lampp/htdocs/exemplo/geral.inc",
+		"/run/user/1000/gvfs/smb-share:server=190.200.1.213,share=http/polonavalrg/public_html/templates/cadastro_assinante_dados_profissionais.html",
+		"/run/user/1000/gvfs/smb-share:server=190.200.1.213,share=http/polonavalrg/public_html/templates/minha_conta_dados_profissionais.html",
+		"/opt/lampp/htdocs/ATPS/css/estilo.css",
+		"/opt/lampp/htdocs/ATPS/compass/sass/estilo.scss",
+		"/opt/lampp/htdocs/ATPS/js/jquery.maskedinput.js",
+		"/opt/lampp/htdocs/ATPS/index.html",
+		"/opt/lampp/htdocs/ATPS/gera.php",
+		"/opt/lampp/htdocs/carro/mod3/veiculo.inc",
+		"/opt/lampp/htdocs/carro/mod3/index.php",
+		"/opt/lampp/htdocs/ATPS-PO/gera.php",
+		"/opt/lampp/htdocs/ldw/conexao.php",
+		"/opt/lampp/htdocs/ldw/cria.sql",
+		"/opt/lampp/htdocs/ldw/nossos_filmes.php",
+		"/opt/lampp/htdocs/ldw/index.php",
+		"/opt/lampp/htdocs/ldw/contato.php",
+		"/opt/lampp/htdocs/com/cria.sql",
+		"/opt/lampp/htdocs/com/conexao.php",
+		"/opt/lampp/htdocs/com/index.php",
+		"/opt/lampp/htdocs/com/contato.php",
+		"/opt/lampp/htdocs/wolfweb/index.php",
+		"/home/fabio/Área de Trabalho/Banco de Dados/Semana 13/InsertFuncionario.sql",
+		"/home/fabio/Área de Trabalho/Banco de Dados/Semana 13/CriacaoTrigger.sql",
+		"/home/fabio/Área de Trabalho/Banco de Dados/Semana 13/Folha.sql",
+		"/home/fabio/Downloads/Folha.sql",
+		"/home/fabio/Downloads/folha.sql",
+		"/opt/lampp/phpmyadmin/config.inc.php",
+		"/opt/lampp/phpmyadmin/config.sample.inc.php",
+		"/opt/lampp/htdocs/index.php",
+		"/opt/lampp/htdocs/xampp/ssi.inc",
+		"/opt/lampp/htdocs/xampp/test.php",
+		"/opt/lampp/htdocs/xampp/mysql.php",
+		"/opt/lampp/htdocs/xampp/head.php",
+		"/opt/lampp/htdocs/xampp/index.php",
+		"/home/fabio/Downloads/locadora.sql",
+		"/opt/lampp/htdocs/filmes.php",
+		"/home/fabio/Área de Trabalho/teste.html",
+		"/home/fabio/Área de Trabalho/sem12_csv.php",
+		"/home/fabio/Área de Trabalho/Sem12_arquivo.php",
+		"/home/fabio/Área de Trabalho/sem12_file.php",
+		"/home/fabio/Área de Trabalho/sem12_Gravacsv.php",
+		"/home/fabio/Área de Trabalho/sem12_conteudo.php",
+		"/home/fabio/htdocs/filmes.csv",
+		"/usr/share/gnome-shell/theme/gnome-shell.css",
+		"/home/fabio/.config/autostart/restore-extensions.desktop",
+		"/home/fabio/script extensoes.sh",
+		"/home/fabio/extensoes.sh",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/inicial.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/assets/compass/sass/slick.scss",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/index.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/modulos/blogs_1.php",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/blog.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/blog_outros_posts.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/galeria_fotos_exibe.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/blog_mais_comentados.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/inicial_mais_noticias.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/index.php",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/wdframe4.3.1/lib/PagSeguroLibrary/PagSeguroLibrary.php",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/wdframe/sed",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/blog_outros_blogs.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/blog_arquivos.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/blog_oceano.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/blog_exibe.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/templates/blog_oceano1.html",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/assets/compass/sass/_padrao.scss",
+		"/home/fabio/wdhouse/frontend/oceanofm/public_html/site/assets/compass/sass/main.scss",
+		"/ssd/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/ssd/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/ssd/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/opt/lampp/htdocs/ATPS/js/tooltipster.js",
+		"/opt/lampp/htdocs/ATPS/css/jquery-ui.theme.min.css",
+		"/opt/lampp/htdocs/ATPS/index.php",
+		"/opt/lampp/htdocs/ATPS/formulario.php",
+		"/opt/lampp/htdocs/ATPS/js/validate.js",
+		"/home/fabio/Área de Trabalho/tool",
+		"/opt/lampp/htdocs/ATPS/estilo.scss",
+		"/opt/lampp/htdocs/ATPS/estilo.css",
+		"/opt/lampp/htdocs/ATPS/DateTime.php",
+		"/home/fabio/htdocs/carro/mod3/veiculo.inc",
+		"/home/fabio/htdocs/carro/mod3/index.php",
+		"/opt/lampp/htdocs/teste.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/opt/lampp/htdocs/miniprojeto"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Cordova",
+			"CordovaApp",
+			"name",
+			"hel",
+			"<tr width=\"610\">",
+			" width=\"610\"",
+			"#F0F0F0",
+			"#F0F0F",
+			"botaoyoutube",
+			"background",
+			"src=\"",
+			"com.br/email/",
+			"<!--wd:linha",
+			"src=\"",
+			"background=\"",
+			"src=\"",
+			"\">",
+			"!imp",
+			"@importa",
+			"ecommerce_frete_tipo4",
+			"opcao_entrega",
+			"$codigo_produto$",
+			"n_item",
+			"lista_roda",
+			"nenhum_jogo",
+			"nenhum_jogo\n",
+			"imagem",
+			"POST",
+			"print_r($_FILES);",
+			"userfile",
+			"uploadfile",
+			"uploaddir",
+			"MAX_FILE_SIZE",
+			"fileToUpload",
+			"contato",
+			"<h1><a href=\"index.html\" class=\"logo\">Logo</a></h1>",
+			"<div class=\"item col-sm-3\">\n								<div class=\"row\">\n									<img src=\"imagens/filhote1.jpg\" height=\"179\" width=\"180\" alt=\"Filhote 1\">\n									<span>Filhote de vira-lata</span>\n									<a href=\"#\" class=\"btn_detalhes_anuncio pull-right\">Detalhes</a>\n								</div>\n							</div>",
+			"noticia",
+			"autenticacao",
+			"telefone",
+			"su",
+			"submi",
+			"($",
+			"form",
+			"$nome",
+			"nome",
+			"foto anuncio",
+			"foto anuncio 1",
+			"(); ",
+			"id",
+			"2",
+			"NEWSLETTER",
+			"miniprojeto",
+			"USUARIO",
+			"retorno",
+			"echo",
+			"\"];\n",
+			"NEWSLETTER",
+			"$obj = $a->fetch_object()",
+			"executa($sql)",
+			"valida_email",
+			"executa($sql)",
+			"valida_telefone",
+			"valida_email",
+			"executa($sql)",
+			"verifica",
+			"a(",
+			"valida",
+			"a(",
+			"codifi",
+			"var",
+			"array",
+			"nome",
+			"titulo",
+			"newsletter",
+			"isset($this->email)",
+			"this->nome",
+			"anuncio",
+			"contaot",
+			"nome",
+			"array",
+			"contato",
+			"EC",
+			"echo ",
+			"fet",
+			"vetor",
+			"array",
+			"inser",
+			"Geral",
+			"codifica_senha",
+			"query",
+			"valida_usuario",
+			"bancoDeDados",
+			"contato",
+			"email",
+			"nome",
+			"anuncio",
+			"email",
+			"newsletter",
+			"email",
+			"telefone",
+			"nome",
+			"email",
+			"nome",
+			"setDescricao",
+			"setFoto",
+			"setNome",
+			"getDescricao",
+			"getFoto",
+			"getNome",
+			"getAnimais",
+			"2",
+			"animal",
+			"Animal",
+			"animal",
+			"Animal",
+			"animal",
+			"Animal",
+			"animal",
+			"Animal",
+			"animal",
+			"ORDER by",
+			"WHERE",
+			"where",
+			"FROM",
+			"from",
+			"foto",
+			"$foto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<h1><a href=\"index.php\" class=\"logo\">Logo</a></h1>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "android.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"geral",
+				"classes/geral.php"
+			],
+			[
+				"contato",
+				"classes/contato.php"
+			],
+			[
+				"inter",
+				"templates/INTERNA.HTML"
+			],
+			[
+				"slick",
+				"assets/compass/sass/slick.scss"
+			],
+			[
+				"est",
+				"compass/sass/estilo.scss"
+			],
+			[
+				"va",
+				"js/validate.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
